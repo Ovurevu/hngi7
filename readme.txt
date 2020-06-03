@@ -1,0 +1,1 @@
+This is the first task of the HNG internship 7.
